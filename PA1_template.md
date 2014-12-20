@@ -1,6 +1,5 @@
 Reproducible Research: Peer Assessment 1
 ==========================================
-Created by Xiaodan Zhang on July 18, 2014
 
 ### Basic settings
 
@@ -40,6 +39,15 @@ dim(noNA)
 
 ```r
 library(ggplot2)
+```
+
+```
+## Warning: package 'ggplot2' was built under R version 3.1.2
+```
+
+```
+## Find out what's changed in ggplot2 with
+## news(Version == "1.0.0", package = "ggplot2")
 ```
 
 
